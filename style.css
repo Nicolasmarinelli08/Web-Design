@@ -1,0 +1,10 @@
+.palavra-sublinhada{
+    text-decoration:underline;
+}
+.texto-riscado {
+    text-decoration: line-through;
+}
+.fonte-size{
+    color: rgb(0, 0, 255);
+    font-size: 32px;
+}
